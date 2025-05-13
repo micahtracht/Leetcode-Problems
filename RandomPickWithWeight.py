@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     '''
     We can decide what to pick using random() and stretching it.
@@ -13,7 +14,7 @@ class Solution:
         self.weights = w
 
     def pickIndex(self) -> int:
-        
+        ...
 
 
 # Your Solution object will be instantiated and called as such:
